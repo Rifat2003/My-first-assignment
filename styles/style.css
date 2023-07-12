@@ -39,6 +39,7 @@ padding: 20px 43px;
 gap: 10px;
 border: none;
 margin-bottom: 10px;
+cursor: pointer;
 }
 .text {
     color: rgba(39, 39, 39, 0.60);
@@ -188,8 +189,8 @@ flex-shrink: 0;
 margin-left: 110px;
 }
 .input {
-    margin-top: 200px;
-    margin-left: 140px;
+    margin-top: 150px;
+    margin-left: 170px;
     
 }
 .email {
@@ -205,6 +206,7 @@ margin-left: 470px;
 margin-bottom: 50px;
 font-family: Lato;
 font-size: 40px;
+padding-top: 50px;
 }
 .text4 {
     color: rgba(39, 39, 39, 0.60);
@@ -229,6 +231,7 @@ margin-left: 600px;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
+padding-top: 120px;
 }
 .text5 {
     display: flex;
@@ -236,7 +239,6 @@ line-height: normal;
 text-align: center;
 margin-left: 500px;
 font-family: Lato;
-margin-top: 140px;
 font-size: 18px;
 align-items: center;
 }
@@ -246,5 +248,19 @@ text-align: center;
 margin-right: 40px;
 font-family: Lato;
 font-size: 16px;
-
+}
+.bonus {
+    background-image: url('./pexels-pixabay-414660.jpg');
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.bonus-head {
+    color: ivory;
+    font-family: Lato;
+font-size: 48px;
+margin-left: 500px;
+padding-top: 100px;
+}
+.bonus-button {
+   margin-left: 700px;
 }
