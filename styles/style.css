@@ -111,3 +111,54 @@ flex-shrink: 0;
 height: 400px;
 flex-shrink: 0;
 }
+.span {
+    color: #E55473;
+}
+.offer {
+    display: flex;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 30px;
+
+}
+.deal {
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+
+}
+.img2{
+    margin-left: 300px;
+}
+.offer-text {
+    max-width: 500px;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.insta {
+    color: #272727;
+font-family: Lato;
+font-size: 50px;
+font-style: normal;
+text-align: center;
+}
+.social {
+    text-align: center;
+}
+.text3 {
+    display: flex;
+width: 594px;
+flex-direction: column;
+flex-shrink: 0;
+color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+margin-left: 450px;
+}
+
